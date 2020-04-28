@@ -2,7 +2,7 @@ import React, { Component, Fragment } from 'react';
 import Microphone from './Microphone/microphone';
 
 import styles from './styles.css';
-import 'milligram/dist/milligram.css';
+// import 'milligram/dist/milligram.css';
 import Camera from './Camera/Camera';
 import Error from './Error/Error';
 import Audio from './Audio/Audio';
